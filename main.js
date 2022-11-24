@@ -8,7 +8,6 @@ import {c, ctx} from "./modules/canvas.js";
 import {random} from "./tools/random.js";
 let curve = 15
 let curve1 = 15
-
 let baseMinLenBranch = 10
 let baseWidthBranch = 40
 let baseAngle = 0
